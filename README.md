@@ -13,7 +13,9 @@ The goal of badgeyay is to provide a simple badge generator with the following f
 
 This first step is to provide a simple script to generate the badges for the FOSSASIA conference. The next step is to provide a web UI.
 
-If you like to join developing,
+Please see here for a video introduction to badgeyay: [https://yt3.ggpht.com/-CP18cWbo34A/AAAAAAAAAAI/AAAAAAAAAAA/kEmIgO8OjCk/s176-c-k-no-mo-rj-c0xffffff/photo.jpg](https://www.youtube.com/watch?v=Gh8j_01LIoQ)
+
+If you are interested in contributing to badgeyay,
 
 - you can [chat on gitter][gitter], mentioning the maintainers.
 - you can find/create [issues](https://github.com/fossasia/badgeyay/issues) and solve them.
@@ -84,7 +86,6 @@ Badgeyay can be easily deployed on a variety of platforms. Currently it can be d
 One-click Docker and Heroku deployment is also available:
 
 [![Deploy to Docker Cloud](https://files.cloud.docker.com/images/deploy-to-dockercloud.svg)](https://cloud.docker.com/stack/deploy/?repo=https://github.com/fossasia/badgeyay) [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
 
 Implementation
 --------------
